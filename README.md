@@ -1,7 +1,7 @@
 # Experiment 09 – The Box–Jenkins Model (ARIMA)
 
-### Name: HANIEL REENA D R
-### Register No: 2305001008
+### Name: SHANTHOSH G
+### Register No: 2305003008
 
 ## Aim
 To understand and implement the Box–Jenkins approach to time-series forecasting using an ARIMA model.
